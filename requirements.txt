@@ -1,0 +1,6 @@
+﻿discord.py
+python-dotenv
+youtube_dl
+requests
+fastapi
+uvicorn

@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+discord.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+.venv/
+.python-version
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Python egg
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Test & coverage
+.coverage
+htmlcov/
+.tox/
+.cache/
+.pytest_cache/
+
+# Database / dump files
+*.sqlite3
+*.db
+*.sql
+
+# Misc
+*.bak
+*.swp
+*.tmp
+
+# Custom files to ignore
+.wordsList.py
